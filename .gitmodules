@@ -1,0 +1,6 @@
+[submodule "chip8-core"]
+	path = chip8-core
+	url = git@github.com:simon-javier/chip8-core.git
+[submodule "chip8-sdl2"]
+	path = chip8-sdl2
+	url = git@github.com:simon-javier/chip8-sdl2.git
